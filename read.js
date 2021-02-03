@@ -1,4 +1,4 @@
-// taking input from the data
+// taking all the input data form the user
 let eleName=document.getElementById('inputElement2')//name input  the search bar
 
 let showTable=document.getElementById('showTable')//showing the all data about the given name
